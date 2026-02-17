@@ -1,0 +1,7 @@
+Dans un PowerShell:  venv\Scripts\Activate.ps1
+		     celery -A tasks.celery worker --loglevel=info --pool=solo
+
+Dans un cmd:         cd C:\Users\ISMAIL\Desktop\ocr_pipeline
+		     venv\Scripts\Activate.ps1
+		     cd app
+		     python app.py
