@@ -212,7 +212,7 @@ Amélioration qualité OCR
 
 ## 👨‍💻 Auteur
 
-Projet réalisé par ISMAIL  
+Projet réalisé par ISMAIL BOULAICH
 Projet personnel – OCR Pipeline avec traitement asynchrone
 
 ---
